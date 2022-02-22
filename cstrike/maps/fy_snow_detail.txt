@@ -1,0 +1,5 @@
+3-teks			detail/trim5				2.0	1.0
+1-teks			detail/snow1122ff				1.2	1.5
+2-teks			detail/fysnow12f				4.0	4.0
+4-teks			detail/snow1122ff				1.2	1.5
+6-teks			detail/twooddrt2tr				1.0	1.0

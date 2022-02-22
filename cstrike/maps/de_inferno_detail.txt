@@ -1,0 +1,112 @@
+{cufence					detail/Booyaka/Inferno/1					1.0	1.0
+{eastline2					detail/Booyaka/Inferno/2					3.5 3.5
+{eastwndwn2					detail/Booyaka/Inferno/3					5.0 5.0
+{fence						detail/Booyaka/Inferno/4					5.0 5.0
+{ladder3a					detail/Booyaka/Inferno/5					2.0 2.0
+{out_net1					detail/Booyaka/Inferno/6					4.0 4.0
+{razor2						detail/Booyaka/Inferno/3					4.0 4.0
+{vine1						detail/Booyaka/Inferno/7					3.0 3.0
+{woodrail					detail/Booyaka/Inferno/3					5.0 5.0
++0~generic86				detail/Booyaka/Inferno/1					1.0	1.0
++a~generic86				detail/Booyaka/Inferno/1					1.0	1.0
+-0cstrike_fj2dk				detail/Booyaka/Inferno/8					3.0 3.0
+-1cstrike_fj2dk				detail/Booyaka/Inferno/8					3.0 3.0
+-0cstrike_mr2dr				detail/Booyaka/Inferno/9					2.0 2.0
+-1cstrike_mr2dr				detail/Booyaka/Inferno/9					2.0 2.0
+-0cstrike_we4al				detail/Booyaka/Inferno/1					1.0	1.0
+-1cstrike_we4al				detail/Booyaka/Inferno/1					1.0	1.0
+-0out_w3					detail/Booyaka/Inferno/10					3.0 3.0
+-1out_w3					detail/Booyaka/Inferno/10					3.0 3.0
+crete4_flr01				detail/Booyaka/Inferno/10					3.0 3.0
+babtech_wall03				detail/Booyaka/Inferno/1					2.0	2.0
+c1a1_tnk1					detail/Booyaka/Inferno/1					2.0	2.0
+cstrike_oe2vent				detail/Booyaka/Inferno/11					3.0 3.0
+cstrike_we2ribd				detail/Booyaka/Inferno/11					3.0 3.0
+cublde						detail/Booyaka/Inferno/12					7.0 7.0
+cudre						detail/Booyaka/Inferno/13					4.5 4.5
+cugena						detail/Booyaka/Inferno/14					8.2 8.2
+cugenc						detail/Booyaka/Inferno/15					5.0 5.0
+cugrounda					detail/Booyaka/Inferno/16					8.0 8.0
+cugroundi					detail/Booyaka/Inferno/17					8.0 8.0
+cuiceila					detail/Booyaka/Inferno/8					5.0 5.0
+cuiflrc						detail/Booyaka/Inferno/10					5.0 5.0
+cuiflre						detail/Booyaka/Inferno/10					5.0 5.0
+cuiwlle						detail/Booyaka/Inferno/18					5.0 5.0
+cuiwllf						detail/Booyaka/Inferno/18					5.0 5.0
+cutrma						detail/Booyaka/Inferno/19					5.0 5.0
+cuwlla						detail/Booyaka/Inferno/20					6.0 6.0
+cuwllb						detail/Booyaka/Inferno/21					8.0 8.0
+cuwllf						detail/Booyaka/Inferno/22					6.0 6.0
+cuwllj						detail/Booyaka/Inferno/22					6.0 6.0
+cuwllg						detail/Booyaka/Inferno/20					6.0 6.0
+cuwllk						detail/Booyaka/Inferno/21					8.0 8.0
+cuwlln						detail/Booyaka/Inferno/12					7.0 7.0
+cuwndc						detail/Booyaka/Inferno/20					6.0 6.0
+cuwndh						detail/Booyaka/Inferno/20					6.0 6.0
+cudri						detail/Booyaka/Inferno/18					5.0 5.0
+cuwllo						detail/Booyaka/Inferno/16					6.0 6.0
+i_roughlow1					detail/Booyaka/Inferno/22					6.0 6.0
+cxdrd						detail/Booyaka/Inferno/23					6.0 6.0
+cxwllbooksa					detail/Booyaka/Inferno/23					6.0 6.0
+cxwoodm						detail/Booyaka/Inferno/23					6.0 6.0
+cxstairsd					detail/Booyaka/Inferno/23					6.0 6.0
+cxstairse					detail/Booyaka/Inferno/23					6.0 6.0
+cxruga						detail/Booyaka/Inferno/24					6.0 6.0
+cxwlle						detail/Booyaka/Inferno/18					5.5 5.5
+eastcratelgtp				detail/Booyaka/Inferno/25					5.0 5.0
+eastcratelgtp2				detail/Booyaka/Inferno/25					5.0 5.0
+eastcratesm					detail/Booyaka/Inferno/25					5.0 5.0
+eastwood01					detail/Booyaka/Inferno/25					5.0 5.0
+eastwood02					detail/Booyaka/Inferno/25					5.0 5.0
+eastwndwntall				detail/Booyaka/Inferno/1					5.0 5.0
+eastwdwdj0					detail/Booyaka/Inferno/26					5.0 5.0
+eastwndwn0					detail/Booyaka/Inferno/1					5.0 5.0
+eastwndwn0b					detail/Booyaka/Inferno/1					5.0 5.0
+eastwndwn0c					detail/Booyaka/Inferno/1					5.0 5.0
+eastwndwn1b					detail/Booyaka/Inferno/1					5.0 5.0
+fifties_cmp3c				detail/Booyaka/Inferno/5					5.0 5.0
+generic012					detail/Booyaka/Inferno/27					5.0 5.0
+glue_plaster1				detail/Booyaka/Inferno/18					7.5 7.5
+i_church2a					detail/Booyaka/Inferno/18					7.5 7.5
+i_grate1					detail/Booyaka/Inferno/4					6.5 6.5
+out_grating2				detail/Booyaka/Inferno/4					6.5 6.5
+i_ground1					detail/Booyaka/Inferno/10					5.0 5.0
+i_ground4					detail/Booyaka/Inferno/10					5.0 5.0
+i_trim3						detail/Booyaka/Inferno/10					5.0 5.0
+keep01						detail/Booyaka/Inferno/10					5.0 5.0
+m_floor8					detail/Booyaka/Inferno/10					5.0 5.0
+m_step1						detail/Booyaka/Inferno/10					5.0 5.0
+m_carpet2					detail/Booyaka/Inferno/24					6.0 6.0
+pi_grnmetal					detail/Booyaka/Inferno/27					5.0 5.0
+pi_lantern					detail/Booyaka/Inferno/27					5.0 5.0
+m_ceiling3					detail/Booyaka/Inferno/23					5.0 5.0
+out_ground9					detail/Booyaka/Inferno/16					7.5 7.5
+out_hay1					detail/Booyaka/Inferno/28					3.0 3.0
+pi_corbel					detail/Booyaka/Inferno/1					5.0 5.0
+pi_floorwd3					detail/Booyaka/Inferno/29					5.0 5.0
+pi_roof						detail/Booyaka/Inferno/18					5.0 5.0
+pi_roofedge					detail/Booyaka/Inferno/18					5.0 5.0
+sign4						detail/Booyaka/Inferno/30					5.0 5.0
+wood2						detail/Booyaka/Inferno/31					7.0 7.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
